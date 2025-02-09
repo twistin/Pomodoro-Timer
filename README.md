@@ -2,6 +2,8 @@
 
 Pomodoro Timer Professional is a desktop application that helps you to manage your time using the Pomodoro technique. The application is developed in Python using Tkinter for the graphical interface and Pygame for sound playback.
 
+<img title="" src="file:///Users/sdcarr/Desktop/pomodoro/pomodoro_project/resources/images/logo.png" alt="" data-align="center" width="258">
+
 ## Features
 
 - Friendly graphical interface.
@@ -62,5 +64,3 @@ To turn the application into an executable, you can use PyInstaller. Follow thes
 
 1. When you start the application, you will see the main screen with the logo and the timer.
 2. You can start, stop and 
-
-

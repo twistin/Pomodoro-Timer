@@ -2,6 +2,8 @@
 
 Pomodoro Timer Profesional es una aplicación de escritorio que te ayuda a gestionar tu tiempo utilizando la técnica Pomodoro. La aplicación está desarrollada en Python utilizando Tkinter para la interfaz gráfica y Pygame para la reproducción de sonidos.
 
+<img title="" src="file:///Users/sdcarr/Desktop/pomodoro/pomodoro_project/resources/images/logo.png" alt="" data-align="center" width="245">
+
 ## Características
 
 - Interfaz gráfica amigable.
